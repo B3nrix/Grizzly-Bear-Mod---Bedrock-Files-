@@ -12,7 +12,7 @@ The **Grizzly Bear Mod** is a Minecraft Bedrock addon that introduces grizzly be
   - Cod ( 0- 2 )
   - Salmon ( 0 - 2 )
   - Honeycombs ( 0 - 3 )
-- **Breeding**: Feed honey or salmon to breed grizzlies.  
+- **Breeding**: Non-Breedable
 
 ### Screenshots  
 ![Screenshot1](https://github.com/user-attachments/assets/e26bc6c0-7de2-463f-acd1-46762690f4fc)
