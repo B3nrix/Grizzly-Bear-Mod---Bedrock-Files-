@@ -24,7 +24,6 @@ The **Grizzly Bear Mod** is a Minecraft Bedrock addon that introduces grizzly be
 - Minecraft Bedrock Edition **v1.16+**
 
 ### Feedback  
-Have suggestions or found a bug? Open an issue [here](https://github.com/<your-username>/grizzly-bear-addon/issues).  
-
+Have suggestions or found a bug? Open an issue [here] (https://github.com/B3nrix/Grizzly-Bear-Mod---Bedrock-Files-/issues).
 ### License  
 This mod is licensed under [MIT License](https://opensource.org/licenses/MIT).
